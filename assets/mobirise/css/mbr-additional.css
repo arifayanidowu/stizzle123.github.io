@@ -76,6 +76,10 @@ body {
     font-size: 1.6rem;
 }
 
+.text-grey{
+    color: rgba(0,0,0,0.5);
+}
+
 
 /* ---- Fluid typography for mobile devices ---- */
 
